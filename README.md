@@ -1,7 +1,7 @@
 # Maze
 A maze solver made with python. You can solve the maze using lee algorithm or by using A*.
 
-This app shows how this two algorithms work. 
+This app shows how the two algorithms work. 
 (Each jump to left, right, top, bottom, or any of the diagonals has the same distance)
 
 ## How to use it?
